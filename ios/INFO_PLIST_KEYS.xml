@@ -1,0 +1,5 @@
+<!-- Add these keys inside ios/Runner/Info.plist <dict> -->
+<key>NSCameraUsageDescription</key>
+<string>Mirage Chat uses the camera to capture photos for offline on-device vision analysis.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Mirage Chat accesses your photo library so you can select images for offline on-device vision analysis.</string>
